@@ -2,3 +2,27 @@
     border-bottom: 5px solid rgb(177, 125, 244);
 
 }
+.nav-item:hover{
+    text-decoration: underline blueviolet 2px ;
+}
+.nav-item a:hover{
+    color: blueviolet;
+}
+
+/* carousel */
+
+/* .carousel-item{
+    height: 450px;
+} */
+.imageheading{
+    margin-top: -44%;
+}
+.carousel-caption{
+    padding: 2px; text-align: justify;
+}
+.carousel-item img{
+    filter: brightness(50%);
+}
+.carousel-inner{
+    z-index: -10;
+}
