@@ -26,3 +26,44 @@
 .carousel-inner{
     z-index: -10;
 }
+
+
+
+#con{ 
+background-color: white;
+margin-top: 50px;
+}
+.words{
+    font-size: 40px;
+    color: rgb(58, 12, 101);
+}
+h3{
+    padding-top: 10px;
+    font-size: 20px;
+    color: rgb(184, 131, 233);
+
+}
+p{
+    font-size: 20px;
+}
+.sub{
+    width: 200px;
+    height: 60px;
+    background-color: blueviolet;
+    border-radius: 40px;
+    font-size: 30px;
+    color: white;
+}
+.sub:hover{
+    background-color: whitesmoke;
+    color:rgba(66, 0, 127, 0.845);
+    border-color:rgba(66, 0, 127, 0.845);
+}
+#c:hover{
+
+    transition:0.5s;
+    box-shadow: 0 4px 8px 0 rgb(234, 234, 234), 0 6px 20px 0 rgba(106, 104, 104, 0.45);   
+    transform: scale(1.1);
+
+
+}
